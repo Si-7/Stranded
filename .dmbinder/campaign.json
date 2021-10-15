@@ -1,0 +1,16 @@
+{
+    "campaignName": "Stranded",
+    "sourcePaths": [
+        "./source/"
+    ],
+    "templatePaths": [
+        "./templates/"
+    ],
+    "componentPaths": [
+        "./components/"
+    ],
+    "generatorPaths": [
+        "./generator-sources"
+    ],
+    "outDirectory": "./out/"
+}
