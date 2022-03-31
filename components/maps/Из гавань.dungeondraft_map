@@ -76,7 +76,7 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 4128.29, 2981.24 )",
+			"camera_position": "Vector2( 4128.29, 2978.57 )",
 			"camera_zoom": 8,
 			"guide_position": "null",
 			"trace_image": null,
@@ -1050,7 +1050,7 @@
 				"water": {
 					"disable_border": false,
 					"tree": {
-						"ref": -1873313002,
+						"ref": -761649498,
 						"polygon": "PoolVector2Array(  )",
 						"join": 0,
 						"end": 0,
@@ -1060,7 +1060,7 @@
 						"blend_distance": 0,
 						"children": [
 							{
-								"ref": -4714554,
+								"ref": -1550826270,
 								"polygon": "PoolVector2Array( 8960, -256, 9472, -256, 9472, 5632, 8192, 5632, 8192, 5376, 7936, 5376, 7936, 3840, 5888, 3840, 5888, 3328, 2304, 3328, 2304, 2816, 5888, 2816, 5888, 2304, 1792, 2304, 1792, 3840, -256, 3840, -256, -256, 0, -256, 0, -512, 8960, -512 )",
 								"join": 0,
 								"end": 0,
